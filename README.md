@@ -183,7 +183,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**afwadmin** - *Initial work* - [Your GitHub Profile]
+- **University project, built with team** -
+
 
 ## 🙏 Acknowledgments
 
