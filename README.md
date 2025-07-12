@@ -79,7 +79,7 @@ Supermarket/
 └── Tables.PNG               # Database schema diagram
 ```
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 - Java JDK 8 or higher
@@ -136,7 +136,7 @@ The application uses Apache Derby with the following database structure:
 - **Username**: `User1`
 - **Password**: `User`
 
-## 💻 Usage
+## Usage
 
 ### Starting the Application
 1. Run `Inicio.java` - This starts the splash screen
@@ -160,7 +160,7 @@ The application uses Apache Derby with the following database structure:
 - **Error Handling**: Comprehensive error handling and user feedback
 - **Responsive UI**: Modern, user-friendly interface
 
-## 📸 Screenshots
+## Screenshots
 
 The application includes:
 - **Splash Screen**: Loading screen with progress bar
@@ -183,7 +183,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-- **University project, built with team** -
+- **University project, built with team**
 
 
 ## 🙏 Acknowledgments
@@ -194,4 +194,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Note**: This is a Java Swing desktop application designed for educational purposes and small to medium supermarket operations. For production use, consider additional security measures and scalability improvements. 
+**Note**: This is a Java Swing desktop application designed for educational purposes and small to medium supermarket operations. For production use, consider additional security measures and scalability improvements.
